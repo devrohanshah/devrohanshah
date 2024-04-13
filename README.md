@@ -25,7 +25,7 @@
 - 🌱 I am teaching myself.
 - 💞️ I’m looking to collaborate with cybersecurity python projects.
 - 📫 How to reach me .. By my youtube [channel](https://bit.ly/3yeJeS9).
-- 📝 I write CTF [Blog](https://mdamiruddin.github.io) and articles on [Medium](https://mdamiruddin.medium.com).
+- 📝 I write CTF [Blog](https://rohanshah.com.np) and articles on [Medium](#).
 - Feel free to connect with me on Linkedin.
 - Learning new technologies everyday to become better than my past self.
  
@@ -68,7 +68,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/MdAmiruddin/MdAmiruddin">
+  <a href="https://github.com/devrohahshah">
   <img  src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg"
        alt="snake" /></a>
 </div>
