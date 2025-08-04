@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **that I don't know**
 
-- 👀 I’m a CyberSecurity Enthusiast. [https://ctf.hackthebox.com/user/profile/311886](https://ctf.hackthebox.com/user/profile/311886)
-
 - 🤝 I’m looking for help with **Nothing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devrohanshah?tab=repositories](https://github.com/devrohanshah?tab=repositories)
