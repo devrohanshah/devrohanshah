@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Rohan Shah</h1>
+<h1 align="center">Hi 👋, I'm Rohan Shah</h1>
 <p align="center">
   <i>Building things that solve real problems.</i>
 </p>
