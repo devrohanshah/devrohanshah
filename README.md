@@ -29,15 +29,17 @@
 → Focus: Real-world solutions, clean UI, performance  
 → Learning: Always something new  
 → Building: Projects that actually matter
+
 ⚡ Current State
 🔭 Working on improving consistency & real projects
 🌱 Learning things I don’t know yet
 ⚡ No unnecessary noise, just building
 🎯 Goal: Stand out with impact, not just code
 ```
-📊 GitHub Analytics
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devrohanshah&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devrohanshah&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrohanshah&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
+## 📊 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devrohanshah&theme=tokyonight&hide_border=true" />
+  
 ## 🧩 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrohanshah&theme=tokyo-night&hide_border=true" /> </p>
 
@@ -54,12 +56,12 @@
 
 → Rental Management App
    Built for real-life usage (family use)
-   Tracks rent, bills, payments
+   Tracks rent, bills, and payments
 ```
 
 
 ## 🌐 Connect
-<p align="center"> <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram" /></a> <a href="https://youtube.com"><img src="https://skillicons.dev/icons?i=youtube" /></a> </p>
+<p align="center"> <a href="https://linkedin.com/in/rohankshsh3"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://instagram.com/rohansh.ah"><img src="https://skillicons.dev/icons?i=instagram" /></a> <a href="mailto:rohankshah345@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> </p>
 
 ## 🧭 Philosophy
 ```
