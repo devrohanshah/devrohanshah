@@ -15,7 +15,6 @@
 <!-- ================= STATS STRIP ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devrohanshah&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/devrohanshah?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/devrohanshah?label=Stars&style=flat" />
 </p>
 
