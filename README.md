@@ -1,45 +1,77 @@
-<h1 align="center">Hi 👋, I'm Rohan Shah</h1>
-<h3 align="center">A passionate Frontend and Backend developer </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrohanshah&label=Profile%20views&color=0e75b6&style=flat" alt="devrohanshah" /> </p>
-
-- 🔭 I’m currently working on **Changes Every Time.**
-
-- 🌱 I’m currently learning **that I don't know**
-
-- 🤝 I’m looking for help with **Nothing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/devrohanshah?tab=repositories](https://github.com/devrohanshah?tab=repositories)
-
-- 📝 I regularly write articles on [https://rohanshah.com.np](https://rohanshah.com.np)
-
-- 💬 Ask me about **anything which you don't know**
-
-- 📫 How to reach me **https://github.com/devrohanshah**
-
-- 📄 Know about my experiences [https://rohanshah.com.np](https://rohanshah.com.np)
-
-- ⚡ Fun fact **There is nothing funny about me.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohankshah3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohankshah3/" height="30" width="40" /></a>
-<a href="https://fb.com/rohanshah3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohanshah3" height="30" width="40" /></a>
-<a href="https://instagram.com/rohansh.ah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohansh.ah" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@rohanandroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rohanandroshan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/dev_rohan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dev_rohan/" height="30" width="40" /></a>
-<a href="https://discord.gg/T3BD692n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/T3BD692n" height="30" width="40" /></a>
+<!-- ================= HEADER ================= -->
+<h1 align="center">Rohan Shah</h1>
+<p align="center">
+  <i>Building things that solve real problems.</i>
 </p>
 
+<p align="center">
+  <a href="https://rohanshah.com.np">Portfolio</a> •
+  <a href="https://github.com/devrohanshah">GitHub</a> •
+  <a href="https://linkedin.com">LinkedIn</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrohanshah&show_icons=true&locale=en&layout=compact" alt="devrohanshah" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrohanshah&show_icons=true&locale=en" alt="devrohanshah" /></p>
+<!-- ================= STATS STRIP ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devrohanshah&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/devrohanshah?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/devrohanshah?label=Stars&style=flat" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrohanshah&" alt="devrohanshah" /></p>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<!-- ================= ABOUT ================= -->
+## 🧠 About Me
+
+```txt
+→ Full Stack Developer  
+→ Focus: Real-world solutions, clean UI, performance  
+→ Learning: Always something new  
+→ Building: Projects that actually matter
+
+⚡ Current State
+🔭 Working on improving consistency & real projects
+🌱 Learning things I don’t know yet
+⚡ No unnecessary noise, just building
+🎯 Goal: Stand out with impact, not just code
+```
+📊 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devrohanshah&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devrohanshah&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrohanshah&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+🧩 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrohanshah&theme=tokyo-night&hide_border=true" /> </p>
+
+🚀 Tech Stack
+<p align="center">
+
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+Backend
+<img src="https://skillicons.dev/icons?i=php,nodejs,mysql" />
+
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</p>
+
+→ Python Chat App (1st Semester Project)
+   Simple real-time communication logic
+   Focus on learning core concepts
+
+→ NepaliRagat
+   Dynamic form system with API-based data
+   PHP + MySQL backend integration
+
+→ Rental Management App
+   Built for real-life usage (family use)
+   Tracks rent, bills, payments
+
+
+🌐 Connect
+<p align="center"> <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram" /></a> <a href="https://youtube.com"><img src="https://skillicons.dev/icons?i=youtube" /></a> </p>
+
+🧭 Philosophy
+Not here to do everything.
+Here to do the right things better.
