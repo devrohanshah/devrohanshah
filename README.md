@@ -28,8 +28,10 @@
 → Focus: Real-world solutions, clean UI, performance  
 → Learning: Always something new  
 → Building: Projects that actually matter
+```
+## ⚡ Current State
 
-⚡ Current State
+```
 🔭 Working on improving consistency & real projects
 🌱 Learning things I don’t know yet
 ⚡ No unnecessary noise, just building
