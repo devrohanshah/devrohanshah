@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://rohanshah.com.np">Portfolio</a> •
   <a href="https://github.com/devrohanshah">GitHub</a> •
-  <a href="https://linkedin.com">LinkedIn</a>
+  <a href="https://linkedin.com/in/rohankshah3">LinkedIn</a>
 </p>
 
 ---
